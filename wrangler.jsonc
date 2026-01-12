@@ -1,0 +1,6 @@
+{
+  "name": "gottfried-associates-site",
+  "main": "src/index.js",
+  "compatibility_date": "2025-12-18",
+  "assets": { "directory": "./dist" }
+}
